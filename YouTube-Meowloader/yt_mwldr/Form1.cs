@@ -24,11 +24,6 @@ namespace yt_mwldr
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
         private void exitButton_Click(object sender, EventArgs e)
         {
             Application.Exit();
